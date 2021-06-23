@@ -1,4 +1,4 @@
-# first-app
+# add-resources
 
 ## Project setup
 ```
